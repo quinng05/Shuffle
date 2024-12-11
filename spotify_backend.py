@@ -17,3 +17,5 @@ def get_playlists():
 if __name__ == "__main__":
     print("Fetching Playlists...")
     print(get_playlists())
+
+    # Hello world
